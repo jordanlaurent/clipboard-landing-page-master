@@ -1,0 +1,23 @@
+
+
+@font-face {
+    font-family: 'Bai Jamjuree';
+    src: url('BaiJamjuree-SemiBold.woff2') format('woff2'),
+        url('BaiJamjuree-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bai Jamjuree';
+    src: url('BaiJamjuree-SemiBoldItalic.woff2') format('woff2'),
+        url('BaiJamjuree-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+body{ font-family: 'Bai Jamjuree';font-weight: 600; font-size: 18px;}
+ul{list-style: none;}
+li{padding-bottom: 4%;}
