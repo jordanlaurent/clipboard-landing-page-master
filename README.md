@@ -27,8 +27,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution github](https://github.com/jordanlaurent/stats-preview-card-component-main)
-- Live Site URL: [Live site solution](https://jordanlaurent.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution github](https://github.com/jordanlaurent/clipboard-landing-page-master)
+- Live Site URL: [Live site solution](https://jordanlaurent.github.io/clipboard-landing-page-master/)
 
 ## My process
 
